@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Laptop Alpha\OneDrive\Máy tính\Mazze\Mazze\main.cpp(172,16): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Laptop Alpha\OneDrive\Máy tính\Mazze\Mazze\main.cpp(244,16): warning C4553: '==': result of expression not used; did you intend '='?
+  Mazze.vcxproj -> C:\Users\Laptop Alpha\OneDrive\Máy tính\Mazze\x64\Debug\Mazze.exe
