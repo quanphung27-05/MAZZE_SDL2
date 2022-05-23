@@ -5,7 +5,7 @@
 -Người chơi vượt qua các map mê cung để có thể tìm đc đến vạch  đích.
 - Ý tưởng chính: Là thiết kế map bằng kỹ thuật tile map, sau đó check va chạm của nhân vật với các ô gạch.
 ## Các kỹ thuật lập trình được sử dụng trong chương trình
-- COn trỏ.
+- Con trỏ.
 - Class (lớp ImpTimer, lớp BaseObject, lớp Music,...).
 - Kỹ thuật Tile_map (lưu trữ thông tin map dưới dạng .txt).
 - Đọc xuất file.
