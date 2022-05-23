@@ -1,11 +1,12 @@
 ## Hướng dẫn cài đặt:
+
 - Người chơi bấm nút bắt đầu,chọn map và xử dụng các nút điều hướng để chơi.
 ## Mô tả chung về trò chơi, các ý tưởng chính
 -Người chơi vượt qua các map mê cung để có thể tìm đc đến vạch  đích.
 - Ý tưởng chính: Là thiết kế map bằng kỹ thuật tile map, sau đó check va chạm của nhân vật với các ô gạch.
 ## Các kỹ thuật lập trình được sử dụng trong chương trình
 - COn trỏ.
-- Class (Lớp button, lớp Timer, lớp BaseObject, lớp Music,...).
+- Class (lớp ImpTimer, lớp BaseObject, lớp Music,...).
 - Kỹ thuật Tile_map (lưu trữ thông tin map dưới dạng .txt).
 - Đọc xuất file.
 ### Thông tin về code và tài nguyên
