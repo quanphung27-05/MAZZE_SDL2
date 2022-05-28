@@ -1,8 +1,16 @@
 ## Hướng dẫn cài đặt:
 - Người chơi bấm nút bắt đầu,chọn map và xử dụng các nút điều hướng để chơi.
 ## Mô tả chung về trò chơi, các ý tưởng chính
--Người chơi vượt qua các map mê cung để có thể tìm đc đến vạch  đích.
+- Người chơi vượt qua các map mê cung để có thể tìm được lối thoát ra ngoài.
 - Ý tưởng chính: Là thiết kế map bằng kỹ thuật tile map, sau đó check va chạm của nhân vật với các ô gạch.
+## Các chức năng đã cài đặt
+- Có tùy chọn map yêu thích để chơi.
+- Có cài đặt âm thanh để người chơi thư giãn khi chơi.
+- Có chỗ hiển thị level hiện tại đang chơi.
+- Có nút quay trở về level trước đó để chơi lại.
+- Có nút menu hiện thị các tùy chọn như tắt âm thanh, về màn hình chính, tiếp tục trò chơi.
+- Có thanh thời gian đếm ngược ngắn dần theo thời gian.
+### Nhấn vào [đây](https://youtu.be/Css1yAlwaUM) để xem video demo về Mazze Game
 ## Các kỹ thuật lập trình được sử dụng trong chương trình
 - Con trỏ.
 - Class (lớp ImpTimer, lớp BaseObject, lớp Music,...).
